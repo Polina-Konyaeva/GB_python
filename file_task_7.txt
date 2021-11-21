@@ -1,0 +1,5 @@
+First_firm ОАО 100000 20000
+Second_firm ООО 50000 7000
+Third_firm ЗАО 75000 15000
+Fourth_firm ООО 150000 40000
+Fifth_firm ОАО 90000 35000
